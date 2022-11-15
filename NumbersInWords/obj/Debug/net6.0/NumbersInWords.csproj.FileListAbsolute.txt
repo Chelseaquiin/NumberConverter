@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Task2\NumbersInWords\bin\Debug\net6.0\NumbersInWords.exe
+C:\Users\user\source\repos\Task2\NumbersInWords\bin\Debug\net6.0\NumbersInWords.deps.json
+C:\Users\user\source\repos\Task2\NumbersInWords\bin\Debug\net6.0\NumbersInWords.runtimeconfig.json
+C:\Users\user\source\repos\Task2\NumbersInWords\bin\Debug\net6.0\NumbersInWords.dll
+C:\Users\user\source\repos\Task2\NumbersInWords\bin\Debug\net6.0\NumbersInWords.pdb
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.AssemblyInfo.cs
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.dll
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\refint\NumbersInWords.dll
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.pdb
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\NumbersInWords.genruntimeconfig.cache
+C:\Users\user\source\repos\Task2\NumbersInWords\obj\Debug\net6.0\ref\NumbersInWords.dll
